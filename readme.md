@@ -1,16 +1,10 @@
-# SVG
-cień:
-https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes-avatar-shadow.svg
+﻿# Public_Assets
 
-nie cień:
-https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes-avatar.svg
+Jacek's general-use public asset repo: logos, icons, images and other files shared across projects.
+Files are served as raw URLs, so keep the repo public and never put secrets here.
 
-# PNG
-cień:
-https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/shadow.png
+URL pattern:
+https://raw.githubusercontent.com/JacekPodanowski/Public_Assets/main/<folder>/<file>
 
-cień maly:
-https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/shadowSmall.png
-
-nie cień:
-https://raw.githubusercontent.com/JacekPodanowski/YourEasySite_Logo/main/yes%20-%20no%20shadow.png
+Layout: one folder per project or brand (e.g. `yes/`, `realsites/`). Add files there.
+The old YES logos were removed on 2026-10-28 (to be recreated for the RealSites transition); they remain in git history.
